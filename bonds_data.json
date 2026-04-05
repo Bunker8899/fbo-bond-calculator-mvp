@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "issue_month": "2026-04",
+    "updated_at": "2026-04-05T00:00:00Z",
+    "source_documentation": "obligacjeskarbowe.pl"
+  },
+  "bonds": [
+    {
+      "symbol": "TOS0429",
+      "type": "TOS",
+      "nominal_value": 100.00,
+      "duration_years": 3,
+      "first_year_rate": 0.044,
+      "margin": 0.00,
+      "inflation_linked": false,
+      "capitalization": true,
+      "early_redemption_fee": 1.00
+    },
+    {
+      "symbol": "COI0430",
+      "type": "COI",
+      "nominal_value": 100.00,
+      "duration_years": 4,
+      "first_year_rate": 0.0475,
+      "margin": 0.015,
+      "inflation_linked": true,
+      "capitalization": false,
+      "early_redemption_fee": 2.00
+    },
+    {
+      "symbol": "EDO0436",
+      "type": "EDO",
+      "nominal_value": 100.00,
+      "duration_years": 10,
+      "first_year_rate": 0.0535,
+      "margin": 0.02,
+      "inflation_linked": true,
+      "capitalization": true,
+      "early_redemption_fee": 3.00
+    }
+  ]
+}

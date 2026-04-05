@@ -1,4 +1,4 @@
-# 📈 FBO Bond Calculator MVP 
+# 📈 FBO Kalkulator Obligacji MVP 
 ### Od specyfikacji do wdrożenia – Prototyp kalkulatora obligacji skarbowych
 
 Działający prototyp Minimum Viable Product (MVP) zaprojektowany, aby dostarczyć rzetelnych i precyzyjnych wyliczeń zysków z polskich detalicznych obligacji skarbowych. Projekt udowadnia podejście produktowe: od rygorystycznej analizy matematycznej, przez architekturę bezstanową, aż po reaktywny interfejs użytkownika.

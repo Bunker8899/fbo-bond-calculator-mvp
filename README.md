@@ -5,6 +5,10 @@ Działający prototyp Minimum Viable Product (MVP) zaprojektowany, aby dostarczy
 
 ---
 
+![FBO Bond Calculator MVP Dashboard](images/screenshot.png)
+
+---
+
 ## 🚀 Kluczowe Funkcjonalności (Core Logic)
 
 Silnik obliczeniowy precyzyjnie odwzorowuje mechanizmy finansowe zdefiniowane w listach emisyjnych Ministerstwa Finansów:

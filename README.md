@@ -9,7 +9,8 @@ Działający prototyp Minimum Viable Product (MVP) zaprojektowany, aby dostarczy
 
 Silnik obliczeniowy precyzyjnie odwzorowuje mechanizmy finansowe zdefiniowane w listach emisyjnych Ministerstwa Finansów:
 
-* **Obsługa wielu instrumentów**: Pełna logika dla obligacji **TOS** (3-letnie stałoprocentowe), **COI** (4-letnie indeksowane) oraz **EDO** (10-letnie emerytalne).
+* **Obsługa wielu instrumentów**: Pełna logika dla obligacji **TOS** (3-letnie stałoprocentowe),
+**COI** (4-letnie indeksowane) oraz **EDO** (10-letnie emerytalne).
 * **Mechanizm Kapitalizacji**: Implementacja procentu składanego dla EDO/TOS oraz corocznej wypłaty odsetek dla COI.
 * **Pancerz Antydeflacyjny**: Automatyczna bariera zerująca podstawę oprocentowania w scenariuszu ujemnej inflacji ($r_{t} = \max(0, i_{t}) + m$).
 * **Tarcza Podatkowa (Wcześniejszy Wykup)**: Unikalny algorytm pomniejszający podstawę opodatkowania o opłatę karną, co optymalizuje zysk netto inwestora przy zerwaniu lokaty.
